@@ -1,4 +1,4 @@
-- 👋 Hi, I’miIshaan Mishra @MIsh-Ra
+- 👋 Hi, I’m Ishaan Mishra @MIsh-Ra
 - 👀 I’m interested in full stack devlopment 
 - 🌱 I’m currently learning Java and C 
 - 💞️ I’m looking to collaborate on 
