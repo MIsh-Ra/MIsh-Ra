@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishaan Mishra @MIsh-Ra
-- 👀 I’m interested in full stack devlopment 
-- 🌱 I’m currently learning Java and C 
+- 👀 I’m interested in full-stack devlopment and AIML 
+- 🌱 I’m currently learning Javascript and covering the basics Artificial Intelligence 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @ishaanmishrapakhi25@gmail.com
 
